@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- HEADER: WAYNE ENTERPRISES / THE DARK KNIGHT CYBERNETIC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=090a0f&height=230&section=header&text=DIMAS%20ZAKY&fontSize=48&fontColor=F59E0B&animation=fadeIn&fontAlignY=38&desc=%E2%80%A2%20THE%20DARK%20KNIGHT%20OF%20CODE%20%E2%80%A2%20GOTHAM%20CITY%20%E2%80%A2&descAlignY=62&descSize=15&descColor=FCD34D" width="100%" />
+<!-- CINEMATIC GOTHAM CITY HERO BACKGROUND -->
+<img src="gotham-city.jpg" width="100%" alt="Gotham City Night - The Dark Knight" style="max-height: 400px; object-fit: cover; border-radius: 8px;" />
+
+<br/><br/>
+
+<!-- HEADER TITLE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=090a0f&height=120&section=header&text=DIMAS%20ZAKY&fontSize=42&fontColor=F59E0B&animation=fadeIn&fontAlignY=45&desc=%E2%80%A2%20THE%20DARK%20KNIGHT%20OF%20CODE%20%E2%80%A2%20GOTHAM%20SECTOR%207%20%E2%80%A2&descAlignY=75&descSize=14&descColor=FCD34D" width="100%" />
 
 <!-- BATCOMPUTER BOOT SEQUENCE TYPING SVG -->
 <a href="https://github.com/dmas-zky">
