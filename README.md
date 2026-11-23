@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CINEMATIC GOTHAM CITY HERO BACKGROUND -->
-<img src="gotham-city.jpg" width="100%" alt="Gotham City Night - The Dark Knight" style="max-height: 400px; object-fit: cover; border-radius: 8px;" />
+<!-- CINEMATIC ANIMATED GOTHAM CITY HERO (35 FLAPPING BATS SWARM + GOTHAM SKYLINE) -->
+<img src="bats-animation.svg" width="100%" alt="Gotham City - Bat Swarm Flying Animation" style="border-radius: 8px; box-shadow: 0 8px 30px rgba(0,0,0,0.9);" />
 
 <br/><br/>
 
